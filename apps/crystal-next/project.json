@@ -1,0 +1,8 @@
+{
+  "name": "crystal-next",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/crystal-next/src",
+  "// targets": "to see all targets run: nx show project crystal-next --web",
+  "targets": {}
+}

@@ -1,0 +1,10 @@
+{
+  "name": "crystal-next-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/crystal-next-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["crystal-next"],
+  "// targets": "to see all targets run: nx show project crystal-next-e2e --web",
+  "targets": {}
+}
